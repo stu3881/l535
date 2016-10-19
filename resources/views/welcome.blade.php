@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel l535
+                    Laravel l535 v0.0.0
                 </div>
 
                 <div class="links">
